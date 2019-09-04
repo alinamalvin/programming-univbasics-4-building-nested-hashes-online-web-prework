@@ -1,5 +1,5 @@
 def base_hash
-   hash = Hash.base
+   hash = Hash.base[:piece]
 end
 
 def monopoly_with_second_tier
