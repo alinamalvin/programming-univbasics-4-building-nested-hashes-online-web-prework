@@ -1,5 +1,5 @@
 def base_hash
-   hash = Hash.new
+   hash = Hash.base
 end
 
 def monopoly_with_second_tier
